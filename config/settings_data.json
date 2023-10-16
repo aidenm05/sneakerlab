@@ -105,6 +105,7 @@
     "checkout_body_font": "Raleway",
     "checkout_accent_color": "#3dae2b",
     "checkout_button_color": "#3dae2b",
+    "checkout_error_color": "#dd1d1d",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
