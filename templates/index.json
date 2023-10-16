@@ -14,28 +14,25 @@
         "6329d168-d6b6-4142-ab2a-a3dd499cbf84": {
           "type": "image",
           "settings": {
-            "title": "Dior x Sneaker LAB",
+            "title": "place hold",
             "link": "https:\/\/www.sneakerlab.com\/blogs\/collaborations\/dior-x-sneaker-lab-collaboration",
-            "image": "shopify:\/\/shop_images\/DIOR_x_Sneaker_LAB_Shoot-01.jpg",
-            "hover_text": "View [COLLAB]"
+            "hover_text": ""
           }
         },
         "cbea314f-f00c-427d-ac1b-fd27e998caa9": {
           "type": "image",
           "settings": {
-            "title": "Introducing: Apparel Care",
+            "title": "place hold",
             "link": "shopify:\/\/blogs\/news\/introducing-sneaker-labs-apparel-care-elevate-your-apparel-care-routine",
-            "image": "shopify:\/\/shop_images\/Untitled_design_15.png",
-            "hover_text": "View [Apparel Care]"
+            "hover_text": ""
           }
         },
         "106a1f1e-9647-46ea-942b-1bfd9172a848": {
           "type": "image",
           "settings": {
-            "title": "Better for your sneakers, better for your earth.",
+            "title": "place hold",
             "link": "https:\/\/www.sneakerlab.com\/blogs\/stories\/better-for-your-sneakers-better-for-your-earth",
-            "image": "shopify:\/\/shop_images\/DSC09649_SPRAY_982d7732-78bc-4167-94a7-9b874f9926a0.jpg",
-            "hover_text": "View [story]"
+            "hover_text": ""
           }
         }
       },
@@ -51,15 +48,16 @@
       "type": "featured-products",
       "settings": {
         "featured_products": [
-          "sneaker-wipes-12-pack-box",
-          "premium-kit",
-          "sneaker-cleaner",
-          "basic-kit"
+          "icing-on-the-kickz-signature-popcorn-series-chile-glaze-w-dark-chocolate-drizzle",
+          "icing-on-the-kickz-signature-popcorn"
         ]
       }
     },
     "commitment": {
       "type": "home-commitment",
+      "custom_css": [
+
+      ],
       "settings": {
         "text": "AT SNEAKER LAB WE ARE COMMITTED TO BEING AS ENVIRONMENTALLY FRIENDLY AS WE CAN."
       }
