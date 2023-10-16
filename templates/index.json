@@ -15,8 +15,9 @@
           "type": "image",
           "settings": {
             "title": "place hold",
-            "link": "https:\/\/www.sneakerlab.com\/blogs\/collaborations\/dior-x-sneaker-lab-collaboration",
-            "hover_text": ""
+            "link": "shopify:\/\/collections",
+            "image": "shopify:\/\/shop_images\/20200214_202716_1.jpg",
+            "hover_text": "So many"
           }
         },
         "cbea314f-f00c-427d-ac1b-fd27e998caa9": {
@@ -31,8 +32,9 @@
           "type": "image",
           "settings": {
             "title": "place hold",
-            "link": "https:\/\/www.sneakerlab.com\/blogs\/stories\/better-for-your-sneakers-better-for-your-earth",
-            "hover_text": ""
+            "link": "shopify:\/\/collections",
+            "image": "shopify:\/\/shop_images\/20221022_144048_1.jpg",
+            "hover_text": "Strawberry Cough"
           }
         }
       },
