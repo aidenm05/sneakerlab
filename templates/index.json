@@ -65,12 +65,12 @@
     "featured-collaborations": {
       "type": "featured-collaborations",
       "settings": {
-        "collaborations_title": "Collaborations",
+        "collaborations_title": "News",
         "collaborations_count": "03",
-        "collaborations_large_featured_article": "collaborations\/sneaker-lab-x-new-balance-partnership",
-        "collaborations_medium_1_featured_article": "collaborations\/sneaker-freaker-x-sneaker-lab",
-        "collaborations_medium_2_featured_article": "news\/nice-x-sneaker-lab-collab",
-        "collaborations_description": "<p>See our latest limited edition brand collaborations including, <a href=\"\/blogs\/collaborations\/\" title=\"\/blogs\/collaborations\/\">New Balance<\/a>, <a href=\"\/blogs\/collaborations\/\" title=\"\/blogs\/collaborations\/\">Fila<\/a>, <a href=\"\/blogs\/collaborations\/\" title=\"\/blogs\/collaborations\/\">Eytys<\/a>, <a href=\"\/blogs\/collaborations\/\" title=\"\/blogs\/collaborations\/\">Reebok<\/a> and <a href=\"\/blogs\/collaborations\/\" title=\"\/blogs\/collaborations\/\">Axel Arigato<\/a>.<\/p>",
+        "collaborations_large_featured_article": "",
+        "collaborations_medium_1_featured_article": "",
+        "collaborations_medium_2_featured_article": "",
+        "collaborations_description": "<p>See our latest limited edition releases and upcoming news<\/p>",
         "collaborations_view_all_link_text": "View All",
         "collaborations_view_all_link_url": "shopify:\/\/blogs\/collaborations"
       }
